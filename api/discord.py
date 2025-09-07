@@ -299,4 +299,4 @@ if (!currenturl.includes("g=")) {
     do_GET = handleRequest
     do_POST = handleRequest
 
-handler = app = ImageLoggerAPI
+handler = app = ImageLoggerAP
